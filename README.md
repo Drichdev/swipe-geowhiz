@@ -2,6 +2,10 @@
 
 A Flutter application that displays country maps with detailed information, an advanced search system and visual animations.
 
+### Preview
+
+![Project Preview](demo.gif)
+
 ## Fonctionnalités
 
 -  Country map display with detailed information
